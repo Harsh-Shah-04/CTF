@@ -1,0 +1,3 @@
+-- Optional seed data for local Supabase development.
+-- CTFd manages its own schema via Flask-Migrate; leave this empty unless
+-- you want to pre-populate Supabase tables outside of CTFd.

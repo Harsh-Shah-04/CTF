@@ -78,5 +78,10 @@ CTFd/uploads
 # JS
 node_modules/
 
+# Environment & Supabase local state
+.env
+supabase/.branches
+supabase/.temp
+
 # Flask Profiler files
 flask_profiler.sql
